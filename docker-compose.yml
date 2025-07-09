@@ -1,0 +1,9 @@
+services:
+  aniworld-downloader:
+    image: ghcr.io/m4rc-xx/aniworld-downloader-docker:latest
+    container_name: aniworld-downloader
+    tty: true
+    stdin_open: true
+    volumes:
+      - /home/pi/anime_downloads:/app/downloads
+    restart: unless-stopped
