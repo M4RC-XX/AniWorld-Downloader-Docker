@@ -211,7 +211,7 @@ class SelectionMenu(npyscreen.NPSApp):
 
     def _create_action_widget(self, form: npyscreen.Form) -> npyscreen.TitleSelectOne:
         """Create the action selection widget."""
-        actions = ["Watch", "Download", "Syncplay"]
+        actions = ["Download"]
         default_index = 0
 
         try:
