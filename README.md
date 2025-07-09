@@ -6,7 +6,7 @@ AniWorld Downloader is a versatile command-line tool designed for downloading an
 ![Downloads](https://img.shields.io/pypi/dm/aniworld?label=Downloads&color=blue)
 ![License](https://img.shields.io/pypi/l/aniworld?label=License&color=blue)
 
-![AniWorld Downloader - Demo](https://github.com/m4rc-xx/AniWorld-Downloader-Docker/blob/next/.github/assets/demo.png?raw=true)
+![AniWorld Downloader - Demo](https://github.com/m4rc-xx/AniWorld-Downloader-Docker/blob/next/.github/assets/demo_docker.png?raw=true)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
