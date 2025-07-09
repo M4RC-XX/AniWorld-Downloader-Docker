@@ -58,7 +58,7 @@ services:
 
 AniWorld Downloader offers three versatile usage modes:
 
-1. **Interactive Menu**: Launch the tool and navigate through an intuitive menu to select and manage downloads or streams.
+1. **Interactive Menu**: Launch the tool and navigate through an intuitive menu to select and manage downloads.
 2. **Command-Line Arguments**: Execute specific tasks directly by providing arguments, such as downloading a particular episode or setting preferences.
 
 Choose the method that best suits your workflow and enjoy a seamless experience!
@@ -78,7 +78,7 @@ aniworld --output-dir /app/downloads
 
 ### Command-Line Arguments Example
 
-AniWorld Downloader provides a variety of command-line options for downloading and streaming anime without relying on the interactive menu. These options unlock advanced features such as `--aniskip`, `--keep-watching`, and `--syncplay-password`.
+AniWorld Downloader provides a variety of command-line options for downloading anime without relying on the interactive menu. These options unlock advanced features such as `--aniskip`, `--keep-watching`, and `--syncplay-password`.
 
 #### Example 1: Download a Single Episode
 
