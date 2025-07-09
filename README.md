@@ -34,6 +34,8 @@ To see the list of supported providers, check the [SUPPORTED_PROVIDERS](https://
 Ensure you have **[Docker](https://docs.docker.com/get-started/)** and **[Docker Compose](https://docs.docker.com/compose/)**.<br>
 Additionally, you can use **[Portainer](https://docs.portainer.io/start/install-ce)** to deploy your **compose** as a stack.
 
+### Docker-Compose
+
 ```yaml
 services:
   aniworld-downloader:
@@ -60,6 +62,11 @@ AniWorld Downloader offers three versatile usage modes:
 2. **Command-Line Arguments**: Execute specific tasks directly by providing arguments, such as downloading a particular episode or setting preferences.
 
 Choose the method that best suits your workflow and enjoy a seamless experience!
+
+to execute into the container
+```shell
+docker exec -it aniworld-downloader /bin/bash
+```
 
 ### Menu Example
 
